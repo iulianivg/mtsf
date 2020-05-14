@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/mtsf/static/css/main.c7c421d8.chunk.css",
-    "main.js": "/mtsf/static/js/main.eed850ae.chunk.js",
-    "main.js.map": "/mtsf/static/js/main.eed850ae.chunk.js.map",
-    "runtime-main.js": "/mtsf/static/js/runtime-main.50d5ac53.js",
-    "runtime-main.js.map": "/mtsf/static/js/runtime-main.50d5ac53.js.map",
-    "static/js/2.87c16862.chunk.js": "/mtsf/static/js/2.87c16862.chunk.js",
-    "static/js/2.87c16862.chunk.js.map": "/mtsf/static/js/2.87c16862.chunk.js.map",
-    "index.html": "/mtsf/index.html",
-    "precache-manifest.149699517fc46566eff57003cdc68015.js": "/mtsf/precache-manifest.149699517fc46566eff57003cdc68015.js",
-    "service-worker.js": "/mtsf/service-worker.js",
-    "static/css/main.c7c421d8.chunk.css.map": "/mtsf/static/css/main.c7c421d8.chunk.css.map",
-    "static/js/2.87c16862.chunk.js.LICENSE.txt": "/mtsf/static/js/2.87c16862.chunk.js.LICENSE.txt",
-    "static/media/client_side.png": "/mtsf/static/media/client_side.ce4f14f5.png",
-    "static/media/laptop_again.svg": "/mtsf/static/media/laptop_again.c89a87fd.svg",
-    "static/media/led.jpeg": "/mtsf/static/media/led.8140a700.jpeg",
-    "static/media/linux.png": "/mtsf/static/media/linux.fb002781.png",
-    "static/media/moreCrypto.png": "/mtsf/static/media/moreCrypto.0539a7f5.png",
-    "static/media/video.mp4": "/mtsf/static/media/video.41268bd4.mp4"
+    "main.css": "/static/css/main.c7c421d8.chunk.css",
+    "main.js": "/static/js/main.651f80b8.chunk.js",
+    "main.js.map": "/static/js/main.651f80b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.69cb01a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.69cb01a1.js.map",
+    "static/js/2.e36f0ca8.chunk.js": "/static/js/2.e36f0ca8.chunk.js",
+    "static/js/2.e36f0ca8.chunk.js.map": "/static/js/2.e36f0ca8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.577785cc321658c2d29319c63a89086f.js": "/precache-manifest.577785cc321658c2d29319c63a89086f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c7c421d8.chunk.css.map": "/static/css/main.c7c421d8.chunk.css.map",
+    "static/js/2.e36f0ca8.chunk.js.LICENSE.txt": "/static/js/2.e36f0ca8.chunk.js.LICENSE.txt",
+    "static/media/client_side.png": "/static/media/client_side.ce4f14f5.png",
+    "static/media/laptop_again.svg": "/static/media/laptop_again.c89a87fd.svg",
+    "static/media/led.jpeg": "/static/media/led.8140a700.jpeg",
+    "static/media/linux.png": "/static/media/linux.fb002781.png",
+    "static/media/moreCrypto.png": "/static/media/moreCrypto.0539a7f5.png",
+    "static/media/video.mp4": "/static/media/video.41268bd4.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.50d5ac53.js",
-    "static/js/2.87c16862.chunk.js",
+    "static/js/runtime-main.69cb01a1.js",
+    "static/js/2.e36f0ca8.chunk.js",
     "static/css/main.c7c421d8.chunk.css",
-    "static/js/main.eed850ae.chunk.js"
+    "static/js/main.651f80b8.chunk.js"
   ]
 }
